@@ -1,0 +1,21 @@
+.board {
+    background-color: rgba(220,220,220,0.4);
+    height: 200px;
+    width: 400px;
+    border-radius: 16px;
+    
+  }
+  
+  .board__title {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  .item {
+    border: 1px solid black;
+    border-radius: 4px;
+    margin: 10px 15px;
+    
+  }
